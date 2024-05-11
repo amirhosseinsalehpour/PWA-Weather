@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { fetchWeather } from "./api/fetchWeather";
+import { fetchWeather } from "./api/fetchWeather.js";
 import "./App.css";
 function App() {
   const [query, setQuery] = useState("");
