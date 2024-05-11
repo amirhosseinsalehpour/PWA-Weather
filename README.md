@@ -1,8 +1,9 @@
-# React + Vite
+PWA-Weather: A Progressive Web App (PWA) for Weather Information
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a weather information application built with JavaScript and React that allows users to search for the air temperature of any city. The app is designed as a Progressive Web App (PWA), meaning it can be installed on mobile devices for offline access.
 
-Currently, two official plugins are available:
+Key Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Search for air temperature by city: Enter any city name to retrieve its current air temperature.
+Progressive Web App: Install the app on your mobile device for quick and convenient access to weather information, even without an internet connection (offline data storage may be limited).
+Built with JavaScript and React: Leverages modern web technologies for a fast and responsive user experience.
